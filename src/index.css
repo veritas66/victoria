@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    font-family: monospace;
+    font-size: 15px;
+    color: white;
+    background-color: black;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+      cursor: url('assets/cursor.png') 43 43, auto;
+  }
+  
+  code {
+    font-family: monospace;
+  }
